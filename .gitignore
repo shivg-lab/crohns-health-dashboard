@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+*.pyc
+.streamlit/
+data/health_data.json
+data/data_backups/
+data/exports/
+uploads/
+uploaded_docs/
+AGENTS.md
+SKILLS.md
